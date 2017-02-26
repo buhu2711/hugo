@@ -1,3 +1,20 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "https://buhu2711.github.io/wik/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "What I Know (wik)"
+author = "Buhu"
+
+paginate = 5
+paginatePath = "page"
+
+publishDir = "docs"
+
+[params]
+  googleAnalytics = ""
+
+  # To integrate discourse commenting system and also to display discourse in the footer.
+    discourse = "https://wik2711.disqus.com"
+
+  # Website url, used to have a link in the footer as well as on the top.
+    website = "https://buhu2711.github.io/wik/"
+
+    copyright = "Copyright (c) 2017; All rights reserved."
