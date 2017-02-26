@@ -7,3 +7,4 @@ title = "Linear Regression with Least-Squares Estimation"
 
 Here, I will write what I know about linear regression and how to estimate \Beta_0 and \Beta_1 via least-squares estimation.  
 
+Let's see.
